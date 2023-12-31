@@ -99,7 +99,7 @@ main {
 /* 2 - 正文
 -------------------------------- */
 main section {
-	padding: 5em 0;
+	padding: 3em 0;
 	position: relative;
 }
 @media screen and (max-width: 900px) {
